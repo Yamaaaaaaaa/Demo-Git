@@ -1,2 +1,4 @@
 tmp1
-conflict1
+tmp2
+tmp3
+tmp4
